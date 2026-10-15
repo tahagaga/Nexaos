@@ -9,3 +9,7 @@
 ## 🖥️ NexaOS FileExplorer
 
 ![NexaOS Desktop](2.png)
+
+## 🖥️ NexaOS NotePad
+
+![NexaOS Desktop](3.png)
